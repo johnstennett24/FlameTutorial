@@ -8,7 +8,7 @@ This game is a small sprite that is controlled by the player and then avoids the
 This is to demonstrate how to use the Flame engine in a simple 2D game.
 {Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
 
-[Software Demo Video](https://youtu.be/o1BYcJ4nqwA)
+[Software Demo Video](https://youtu.be/QiVTL9V5OF4)
 
 # Development Environment
 
